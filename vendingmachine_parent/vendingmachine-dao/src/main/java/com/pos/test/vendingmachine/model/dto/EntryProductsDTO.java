@@ -32,4 +32,6 @@ public class EntryProductsDTO {
 	
 	@JsonProperty("price_product")
 	private Double priceProduct;
+
+	
 }

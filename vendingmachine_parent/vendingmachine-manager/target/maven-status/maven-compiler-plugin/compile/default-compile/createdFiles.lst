@@ -1,1 +1,4 @@
-com/pos/test/vendingmachine/VendingmachineManagerApplication.class
+com/pos/test/vendingmachine/process/ProductsResponse.class
+com/pos/test/vendingmachine/transaction/ProcesTransaction.class
+com/pos/test/vendingmachine/service/transaction/ServiceTransactionProduct.class
+com/pos/test/vendingmachine/service/products/ServiceEntityProducts.class

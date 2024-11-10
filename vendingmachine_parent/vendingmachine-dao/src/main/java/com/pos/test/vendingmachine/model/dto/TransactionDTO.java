@@ -71,8 +71,9 @@ public class TransactionDTO {
 		
 		@JsonProperty("price_product")
 		private Double priceProduct;
-	}	
-	
+	}
+
+
 	
 }
 

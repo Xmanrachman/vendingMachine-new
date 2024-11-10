@@ -37,6 +37,8 @@ public class Products implements Serializable {
 	
 	@Column(name = "price_product")
 	private Double priceProduct;
+
+	
 	
 	
 	

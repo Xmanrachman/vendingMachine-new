@@ -1,1 +1,8 @@
-com/pos/test/vendingmachine/VendingmachineDaoApplication.class
+com/pos/test/vendingmachine/repository/TransactionRepository.class
+com/pos/test/vendingmachine/model/dto/TransactionDTO$PaymentMetode.class
+com/pos/test/vendingmachine/model/dto/TransactionDTO$DataProducts.class
+com/pos/test/vendingmachine/model/trasnaction/TransactionProducts.class
+com/pos/test/vendingmachine/model/dto/EntryProductsDTO.class
+com/pos/test/vendingmachine/repository/ProductRepository.class
+com/pos/test/vendingmachine/model/master/Products.class
+com/pos/test/vendingmachine/model/dto/TransactionDTO.class

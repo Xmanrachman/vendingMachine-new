@@ -1,1 +1,4 @@
-/Users/trachman/Downloads/vendingmachine/vendingmachine-manager/src/main/java/com/pos/test/vendingmachine/VendingmachineManagerApplication.java
+/Users/trachman/Documents/Repository/Test-Inspiro/test-deploy-to-hosting/vendingmachine_parent/vendingmachine-manager/src/main/java/com/pos/test/vendingmachine/process/ProductsResponse.java
+/Users/trachman/Documents/Repository/Test-Inspiro/test-deploy-to-hosting/vendingmachine_parent/vendingmachine-manager/src/main/java/com/pos/test/vendingmachine/service/products/ServiceEntityProducts.java
+/Users/trachman/Documents/Repository/Test-Inspiro/test-deploy-to-hosting/vendingmachine_parent/vendingmachine-manager/src/main/java/com/pos/test/vendingmachine/service/transaction/ServiceTransactionProduct.java
+/Users/trachman/Documents/Repository/Test-Inspiro/test-deploy-to-hosting/vendingmachine_parent/vendingmachine-manager/src/main/java/com/pos/test/vendingmachine/transaction/ProcesTransaction.java

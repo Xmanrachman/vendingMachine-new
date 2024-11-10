@@ -1,1 +1,6 @@
-/Users/trachman/Downloads/vendingmachine/vendingmachine-dao/src/main/java/com/pos/test/vendingmachine/VendingmachineDaoApplication.java
+/Users/trachman/Documents/Repository/Test-Inspiro/test-deploy-to-hosting/vendingmachine_parent/vendingmachine-dao/src/main/java/com/pos/test/vendingmachine/model/dto/EntryProductsDTO.java
+/Users/trachman/Documents/Repository/Test-Inspiro/test-deploy-to-hosting/vendingmachine_parent/vendingmachine-dao/src/main/java/com/pos/test/vendingmachine/model/dto/TransactionDTO.java
+/Users/trachman/Documents/Repository/Test-Inspiro/test-deploy-to-hosting/vendingmachine_parent/vendingmachine-dao/src/main/java/com/pos/test/vendingmachine/model/master/Products.java
+/Users/trachman/Documents/Repository/Test-Inspiro/test-deploy-to-hosting/vendingmachine_parent/vendingmachine-dao/src/main/java/com/pos/test/vendingmachine/model/trasnaction/TransactionProducts.java
+/Users/trachman/Documents/Repository/Test-Inspiro/test-deploy-to-hosting/vendingmachine_parent/vendingmachine-dao/src/main/java/com/pos/test/vendingmachine/repository/ProductRepository.java
+/Users/trachman/Documents/Repository/Test-Inspiro/test-deploy-to-hosting/vendingmachine_parent/vendingmachine-dao/src/main/java/com/pos/test/vendingmachine/repository/TransactionRepository.java
