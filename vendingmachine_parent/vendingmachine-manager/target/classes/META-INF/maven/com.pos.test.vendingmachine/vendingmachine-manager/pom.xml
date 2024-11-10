@@ -15,7 +15,7 @@
 		<dependency>
 			<groupId>com.pos.test.vendingmachine</groupId>
 			<artifactId>vendingmachine-dao</artifactId>
-			<version><!-- -->0.0.1-SNAPSHOT</version>
+			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 
